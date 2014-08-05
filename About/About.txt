@@ -1,0 +1,16 @@
+ 	
+	embedXcode
+	embedXcode+
+	----------------------------------
+	Embedded Computing on Xcode
+	
+	
+	© Rei VILO, 2010-2014
+	All rights reserved	
+	http://embedXcode.weebly.com/
+	
+	
+embedXcode  • Jul 31, 2014 release 171 • Support for Intel Galileo and Gen2
+embedXcode+ • Jul 31, 2014 release 171 • Support for Intel Galileo and Gen2
+	
+	
